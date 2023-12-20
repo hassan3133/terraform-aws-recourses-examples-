@@ -13,8 +13,6 @@ You must have an [AWS (Amazon Web Services)](http://aws.amazon.com/) account.
 
 The code consists of Terraform examples using HashiCorp Configuration Language (HCL) on AWS (Amazon Web Services).
 
-All the code is in the [code](/code) folder.
-
 For instructions on running the code, please consult the README in each folder.
 
 This is the list of examples:
